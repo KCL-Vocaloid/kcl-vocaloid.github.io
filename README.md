@@ -6,6 +6,7 @@ to add:
 - instagram
 - discord invite
 - whatsapp invite
+- KCLVS mascot design sheet image
 - friend link to WVS website
 - linkedin (icon hyperlink)
 - github (icon hyperlink) <br/>
