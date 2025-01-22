@@ -1,5 +1,5 @@
 # kcl-vocaloid.github.io
-site
+Website for KCL Vocaloid Society.
 
 to add:
 - instagram
