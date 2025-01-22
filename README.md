@@ -3,9 +3,8 @@ site
 
 to add:
 - instagram
-- linkedin
 - discord invite
 - whatsapp invite
 - friend link to WVS website
-
+- linkedin (icon hyperlink)
 - github (icon hyperlink)
