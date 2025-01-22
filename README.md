@@ -2,6 +2,7 @@
 Website for KCL Vocaloid Society.
 
 to add:
+- brief about
 - instagram
 - discord invite
 - whatsapp invite
