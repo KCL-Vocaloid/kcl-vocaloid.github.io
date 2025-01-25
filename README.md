@@ -7,7 +7,7 @@ to add:
 - instagram: https://instagram.com/kcl.vocaloid
 - discord invite: https://discord.com/invite/PpMUjWrU3f
 - whatsapp invite: https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ
-- KCLVS mascot design sheet image
+- KCLVS mascot design sheet image https://kcl-vocaloid.github.io/kclmiku-refsheet.png
 - friend link to WVS website: https://vocaloidsoc.co.uk/
 - linkedin (icon hyperlink) https://www.linkedin.com/company/kcl-vocaloid-society
 - github (icon hyperlink) https://github.com/KCL-Vocaloid <br/>
