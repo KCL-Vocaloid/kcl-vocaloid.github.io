@@ -4,6 +4,7 @@ Website for KCL Vocaloid Society.
 to add:
 - brief about: Founded in 2024 we are xxx... For the latest news, please check our Instagram or join the Discord/WhatsApp
 - TBA: voting link
+- google calendar embed
 - instagram: https://instagram.com/kcl.vocaloid
 - discord invite: https://discord.com/invite/PpMUjWrU3f
 - whatsapp invite: https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ
