@@ -1,4 +1,4 @@
-# kcl-vocaloid.github.io
+# KCL VOCALOID SOCIETY
 Website for KCL Vocaloid Society. Currently undergoing construction.
 
 About: Founded in 2024, KCL Vocaloid Society is the first university-based Vocaloid fan society in London, with a mission of creating a community for all university-aged enthusiasts of vocal synthesis technology and its spin-off subculture. For the latest news, please check our Instagram or WhatsApp community. Join the Discord server to keep in touch with the community!
