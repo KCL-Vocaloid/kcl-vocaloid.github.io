@@ -1,16 +1,15 @@
 # kcl-vocaloid.github.io
-Website for KCL Vocaloid Society.
+Website for KCL Vocaloid Society. Currently undergoing construction.
 
-to add:
-- brief about: Founded in 2024 we are xxx... For the latest news, please check our Instagram or join the Discord/WhatsApp
-- TBA: voting link
-- google calendar embed
-- instagram: https://instagram.com/kcl.vocaloid
-- discord invite: https://discord.com/invite/PpMUjWrU3f
-- whatsapp invite: https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ
-- KCLVS mascot design sheet image https://kcl-vocaloid.github.io/kclmiku-refsheet.png
-- friend link to WVS website: https://vocaloidsoc.co.uk/
-- linkedin (icon hyperlink) https://www.linkedin.com/company/kcl-vocaloid-society
-- github (icon hyperlink) https://github.com/KCL-Vocaloid <br/>
- Reference: https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
+About: Founded in 2024, KCL Vocaloid Society is the first university-based Vocaloid fan society in London, with a mission of creating a community for all university-aged enthusiasts of vocal synthesis technology and its spin-off subculture. For the latest news, please check our Instagram or WhatsApp community. Join the Discord server to keep in touch with the community!
+TBA: KCLSU voting link
+<iframe src="https://calendar.google.com/calendar/embed?src=f3928bc720f942a5c52d95a6b5ab4ae432158a5222a675ebabacb6bb103a07b6%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+- [Instagram](https://instagram.com/kcl.vocaloid)
+- [Discord invite](https://discord.com/invite/PpMUjWrU3f)
+- [WhatsApp invite](https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ)
+- [KCLVS mascot design sheet](https://kcl-vocaloid.github.io/kclmiku-refsheet.png)
+- [friend link to WVS website](https://vocaloidsoc.co.uk/)
+- [LinkedIn (icon hyperlink in official version)](https://www.linkedin.com/company/kcl-vocaloid-society)
+- [Github (icon hyperlink in official version)](https://github.com/KCL-Vocaloid) <br/>
+ Site-building reference: https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
 For any enquiries, please send a direct message to @kcl.vocaloid on Instagram.
