@@ -3,9 +3,7 @@ Website for KCL Vocaloid Society. Currently undergoing construction.
 
 Founded in 2024, King's College London Vocaloid Society (KCLVS) is the first university-based Vocaloid fan group in London, with a mission of creating a community for all university-aged enthusiasts of vocal synthesis technology and its spin-off subculture. For the latest news, please check our Instagram or WhatsApp community. Join the Discord server to keep in touch with the community!
 
-# [>KCLSU ratification voting link<](https://kcl-vocaloid.github.io/kclsuvote.html)
-<b>⬆️ Press on the text above to get redirected, then press the 👍 on the KCLSU page! Get us to 50 votes!<b>
-
+- [YouTube](https://www.youtube.com/@KCLVocaloid)
 - [Instagram](https://instagram.com/kcl.vocaloid)
 - [Discord invite](https://discord.com/invite/PpMUjWrU3f)
 - [WhatsApp invite](https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ)
