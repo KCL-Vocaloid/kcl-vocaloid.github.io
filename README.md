@@ -5,6 +5,7 @@ Founded in 2024, King's College London Vocaloid Society (KCLVS) is the first uni
 
 - [YouTube](https://www.youtube.com/@KCLVocaloid)
 - [Instagram](https://instagram.com/kcl.vocaloid)
+- [rednote(xiaohongshu)](https://www.xiaohongshu.com/user/profile/66ab83ba000000001d02112d)
 - [Discord invite](https://discord.com/invite/PpMUjWrU3f)
 - [WhatsApp invite](https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ)
 - [KCLVS mascot design sheet](https://kcl-vocaloid.github.io/kclmiku-refsheet.png)
