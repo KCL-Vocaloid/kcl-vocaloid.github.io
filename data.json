@@ -1,0 +1,58 @@
+{ 
+    "name": "King's College London Vocaloid Society",
+    "avatar": "https://kcl-vocaloid.github.io/kclvs.PNG",
+    "links": [
+        {
+            "title": "KCLVS mascot design sheet",
+            "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png"
+        },
+        {
+            "title": "KCLSU page (TBA)",
+            "url": "https://kclsu.org",
+            "image":"https://kcl-vocaloid.github.io/kclsu.png"
+        },
+        {
+            "title": "Instagram: @kcl.vocaloid",
+            "url": "https://instagram.com/kcl.vocaloid",
+            "image":"https://kcl-vocaloid.github.io/instagram.png"
+        },
+        {
+            "title": "YouTube: @KCLVocaloid",
+            "url": "https://www.youtube.com/@KCLVocaloid",
+            "image":"https://kcl-vocaloid.github.io/youtube.png"
+        },
+        {
+            "title": "rednote: KCL Vocaloid",
+            "url": "https://www.xiaohongshu.com/user/profile/66ab83ba000000001d02112d",
+            "image":"https://kcl-vocaloid.github.io/Xiaohongshu.svg"
+        },
+        {
+            "title": "Discord invite",
+            "url": "https://discord.com/invite/PpMUjWrU3f",
+            "image":"https://kcl-vocaloid.github.io/discord.png"
+        },
+        {
+            "title": "WhatsApp invite",
+            "url": "https://chat.whatsapp.com/KRVET35OpUJ1NWYJqGdRVQ",
+            "image":"https://kcl-vocaloid.github.io/WhatsApp.png"
+        },
+        {
+            "title": "Other UK Vocaloid Societies",
+            "url": "https://linktr.ee/vocasoc"
+        }
+    ],
+
+    "socials": [
+        {
+            "title": "KCLVS LinkedIn",
+            "url": "https://www.linkedin.com/company/kcl-vocaloid-society",
+            "image":"https://kcl-vocaloid.github.io/linkedin.png"
+        },
+        {
+            "title": "KCLVS GitHub",
+            "url": "https://github.com/KCL-Vocaloid",
+            "image":"https://kcl-vocaloid.github.io/github.png"
+        }
+    ]
+
+}
