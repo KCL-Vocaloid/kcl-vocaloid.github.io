@@ -1,7 +1,6 @@
 import type { NextConfig } from "next";
 
 const NextConfig = {
-  basePath: '/',
   output: "export",
   distDir:"dist",
   reactStrictMode: true,
