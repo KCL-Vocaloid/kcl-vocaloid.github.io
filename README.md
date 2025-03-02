@@ -6,7 +6,7 @@ For any enquiries, please email kclvocaloid@gmail.com <br/>
 
 Nothing other than page.tsx (main page), layout tsx (background gradient), data.json (all links) should need to be touched. <br/>
 Site-building reference: 
-- https://www.youtube.com/watch?v=eFzNekhVhmM
+- https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
 GitHub deployment tutorials:
 - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/ 
 - https://www.youtube.com/watch?v=mJuz45RXeXY
