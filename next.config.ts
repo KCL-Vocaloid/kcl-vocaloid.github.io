@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
-const isProd = process.env.NODE_ENV = 'production'
-
 const NextConfig = {
-  basePath: isProd ? '/' : ' ',
+  basePath: '/',
   output: "export",
   distDir:"dist",
   reactStrictMode: true,
