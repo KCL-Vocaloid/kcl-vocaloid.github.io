@@ -9,5 +9,5 @@ Site-building reference:
 - https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
 GitHub deployment tutorials:
 - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/ 
-- https://www.youtube.com/watch?v=mJuz45RXeXY
+- https://www.youtube.com/watch?v=mJuz45RXeXY <br/>
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
