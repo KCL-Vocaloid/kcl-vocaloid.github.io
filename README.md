@@ -5,9 +5,9 @@ For the latest news, please check the social media pages linked on our website. 
 For any enquiries, please email kclvocaloid@gmail.com <br/>
 
 - Nothing other than page.tsx (main page), layout tsx (background gradient), data.json (all links) should need to be touched. <br/><br/>
-Site-building reference: 
+<b>Site-building reference: </b>
 - https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
-GitHub deployment tutorials:
+<b>GitHub deployment tutorials:</b>
 - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/ 
 - https://www.youtube.com/watch?v=mJuz45RXeXY <br/>
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
