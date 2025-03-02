@@ -80,7 +80,7 @@ export default function Home() {
           width={120}
           height={120}
           />
-          <h1 className="font-bold mt-4 mb-8 text-xl text-black">{data.name}</h1>
+          <h1 className="font-bold mt-4 mb-8 text-l text-black">{data.name}</h1>
           <iframe src="https://calendar.google.com/calendar/embed?src=f3928bc720f942a5c52d95a6b5ab4ae432158a5222a675ebabacb6bb103a07b6%40group.calendar.google.com&ctz=Europe%2FLondon" width="400" height="400" frameBorder="0" scrolling="no"></iframe><br/>
           {
             data.links.map((link) => (
