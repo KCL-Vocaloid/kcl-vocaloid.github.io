@@ -3,6 +3,10 @@
     "avatar": "https://kcl-vocaloid.github.io/favicon.ico",
     "links": [
         {
+            "title": "KCLVS Merchandise Online Shop",
+            "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
+        },
+        {
             "title": "KCLVS mascot design sheet",
             "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png"
         },
@@ -10,10 +14,6 @@
             "title": "KCLSU page (TBA)",
             "url": "https://kclsu.org",
             "image":"https://kcl-vocaloid.github.io/kclsu.png"
-        },
-        {
-            "title": "KCLVS Merchandise Online Shop",
-            "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
         },
         {
             "title": "Instagram: @kcl.vocaloid",
