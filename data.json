@@ -16,6 +16,11 @@
             "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
         },
         {
+            "title": "Discord chat invite",
+            "url": "https://discord.com/invite/PpMUjWrU3f",
+            "image":"https://kcl-vocaloid.github.io/discord.png"
+        },
+        {
             "title": "Instagram: @kcl.vocaloid",
             "url": "https://instagram.com/kcl.vocaloid",
             "image":"https://kcl-vocaloid.github.io/instagram.png"
@@ -29,11 +34,6 @@
             "title": "rednote: KCL Vocaloid",
             "url": "https://www.xiaohongshu.com/user/profile/66ab83ba000000001d02112d",
             "image":"https://kcl-vocaloid.github.io/Xiaohongshu.svg"
-        },
-        {
-            "title": "Discord chat invite",
-            "url": "https://discord.com/invite/PpMUjWrU3f",
-            "image":"https://kcl-vocaloid.github.io/discord.png"
         },
         {
             "title": "WhatsApp (for event notifictaions)",
