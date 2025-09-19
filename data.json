@@ -3,17 +3,13 @@
     "avatar": "https://kcl-vocaloid.github.io/favicon.ico",
     "links": [
         {
-            "title": "KCLVS Merchandise Online Order Form",
-            "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
+            "title": "KCLSU page (about us/membership here!)",
+            "url": "https://www.kclsu.org/groups/activities/join/vocaloid/",
+            "image":"https://kcl-vocaloid.github.io/kclsu.png"
         },
         {
             "title": "KCLVS mascot Miku design sheet",
             "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png"
-        },
-        {
-            "title": "KCLSU page (buy membership here!)",
-            "url": "https://www.kclsu.org/groups/activities/join/vocaloid/",
-            "image":"https://kcl-vocaloid.github.io/kclsu.png"
         },
         {
             "title": "Instagram: @kcl.vocaloid",
@@ -47,6 +43,10 @@
         {
             "title": "contact us: kclvocaloid@gmail.com",
             "url": "mailto:kclvocaloid@gmail.com"
+        },
+        {
+            "title": "KCLVS Merchandise Online Order Form",
+            "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
         }
     ],
 
