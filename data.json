@@ -8,7 +8,7 @@
             "image":"https://kcl-vocaloid.github.io/kclsu.png"
         },
         {
-            "title": "(click) FILL THIS AFTER BUYING MEMBERSHIP",
+            "title": "FILL THIS FORM AFTER BUYING MEMBERSHIP",
             "url": "https://forms.gle/7uVFfEYVSYAAFz1B7"
         },
         {
@@ -18,10 +18,7 @@
         {
             "title": "KCLVS mascot Miku design sheet",
             "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png"
-        },
-        {
-            "title": "KCLVS merchandise online order form",
-            "url": "https://forms.gle/2WmCsbARFUw4zoMu8"
+            "image":"https://kcl-vocaloid.github.io/fully transp.png"
         },
         {
             "title": "Discord chat invite",
@@ -59,6 +56,10 @@
         {
             "title": "contact us: kclvocaloid@gmail.com",
             "url": "mailto:kclvocaloid@gmail.com"
+        },
+        {
+            "title": "Press Kit",
+            "url": "https://google.com"
         }
     ],
 
