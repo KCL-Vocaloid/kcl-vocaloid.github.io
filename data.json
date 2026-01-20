@@ -9,16 +9,18 @@
         },
         {
             "title": "FILL THIS FORM AFTER BUYING MEMBERSHIP",
-            "url": "https://forms.gle/7uVFfEYVSYAAFz1B7"
+            "url": "https://forms.gle/7uVFfEYVSYAAFz1B7",
+            "image":"https://kcl-vocaloid.github.io/googleforms.png"
         },
         {
             "title": "Weekly Events External Sign-up form",
-            "url": "https://forms.gle/BE3jDYZm9xZ4hP4e7"
+            "url": "https://forms.gle/BE3jDYZm9xZ4hP4e7",
+            "image":"https://kcl-vocaloid.github.io/googleforms.png"
         },
         {
             "title": "KCLVS mascot Miku design sheet",
-            "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png"
-            "image":"https://kcl-vocaloid.github.io/fully transp.png"
+            "url": "https://kcl-vocaloid.github.io/kclmiku-refsheet.png",
+            "image": "https://kcl-vocaloid.github.io/fullytransp.png"
         },
         {
             "title": "Discord chat invite",
