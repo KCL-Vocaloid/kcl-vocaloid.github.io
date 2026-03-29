@@ -4,7 +4,7 @@ For the latest news, please check the social media pages linked on our website. 
 
 Anything not linked on the website is not directly affiliated to us. For any enquiries, please email kclvocaloid@gmail.com <br/>
 
-- Nothing other than page.tsx (main page), layout tsx (background gradient), data.json (all links) should need to be touched. <br/><br/>
+- Nothing other than page.tsx (main page), layout.tsx (background gradient), data.json (all links) should need to be touched. <br/><br/>
 <ins>Site-building reference: </ins>
 - https://www.youtube.com/watch?v=eFzNekhVhmM <br/>
 <ins>GitHub deployment tutorials:</ins>
