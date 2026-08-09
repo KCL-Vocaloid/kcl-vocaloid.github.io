@@ -3,6 +3,10 @@
     "avatar": "https://kcl-vocaloid.github.io/favicon.ico",
     "links": [
         {
+            "title": "Vocal Synth Symposium",
+            "url": "https://kcl-vocaloid.github.io/vocal-synth-symposium/"
+        },
+        {
             "title": "KCLSU page (about us/membership here!)",
             "url": "https://www.kclsu.org/groups/activities/join/vocaloid/",
             "image":"https://kcl-vocaloid.github.io/kclsu.png"
